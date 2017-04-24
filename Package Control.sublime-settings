@@ -5,13 +5,13 @@
 	],
 	"installed_packages":
 	[
-		"Sass",
-		"Unity Completions",
-		"Unity3D",
-		"Unity3D Build System",
 		"C# Compile & Run",
 		"Djaneiro",
 		"Git",
-		"Package Control"
+		"Package Control",
+		"Sass",
+		"Unity Completions",
+		"Unity3D",
+		"Unity3D Build System"
 	]
 }
