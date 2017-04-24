@@ -1,12 +1,11 @@
 {
-  "font_size": 15,
-  "ignored_packages":
-  [
-    "Unity Completions",
-    "Vintage"
-  ],
-  "tab_completion": true,
-  "tab_size": 4,
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_completion": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
