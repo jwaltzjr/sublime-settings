@@ -1,17 +1,17 @@
 {
-  "bootstrapped": true,
-  "in_process_packages":
-  [
-  ],
-  "installed_packages":
-  [
-    "C# Compile & Run",
-    "Djaneiro",
-    "Git",
-    "Package Control",
-    "Sass",
-    "Unity Completions",
-    "Unity3D",
-    "Unity3D Build System"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"C# Compile & Run",
+		"Djaneiro",
+		"Git",
+		"Package Control",
+		"Sass",
+		"Unity Completions",
+		"Unity3D",
+		"Unity3D Build System"
+	]
 }
