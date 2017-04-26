@@ -6,9 +6,12 @@
 	"installed_packages":
 	[
 		"C# Compile & Run",
+		"C# Snippets",
 		"Djaneiro",
+		"Django",
 		"Git",
 		"Package Control",
+		"Python 3",
 		"Sass",
 		"Unity Completions",
 		"Unity3D",
