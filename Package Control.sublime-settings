@@ -5,11 +5,9 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
 		"Anaconda",
 		"AutoFileName",
 		"Bootstrap 3 Snippets",
-		"C# Compile & Run",
 		"C# Snippets",
 		"Color Highlighter",
 		"ColorPicker",
@@ -26,11 +24,6 @@
 		"React IDE",
 		"Sass",
 		"SideBarEnhancements",
-		"SummitLinter",
-		"Terminal",
-		"Unity Completions",
-		"Unity3D",
-		"Unity3D Build System",
-		"Unity3D Reference Search"
+		"Terminal"
 	]
 }
